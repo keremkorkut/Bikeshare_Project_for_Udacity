@@ -5,7 +5,7 @@ Project Title
 Udacity Bikeshare project for Udacity
 
 Description
-This document prepare for udacity learning programme
+This document prepare for udacity learning programme final project 
 
 Files used
 Include the files used.Bikeshare projects csv files not included
