@@ -21,8 +21,7 @@ def get_filters():
     print('My name is Kerem Korkut:)')
 
     print('This code is using for udacity training')
-
-    print('You can use it for github training')
+   
 
         # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid input
 
