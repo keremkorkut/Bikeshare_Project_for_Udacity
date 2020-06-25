@@ -2,7 +2,7 @@ Date created 25.06.2020
 Include the date you created this project and README file.
 
 Project Title
-Udacity Bikeshare project for Udacity 2020
+Udacity Bikeshare project for Udacity 062020
 
 Description
 This document prepare for udacity learning programme final project 
